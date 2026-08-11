@@ -1,0 +1,5 @@
+Example output:
+Training completed.
+Learned states: 5000
+
+Note: The exact number of learned states depends on random training.

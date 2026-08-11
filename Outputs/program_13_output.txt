@@ -1,0 +1,5 @@
+Example output:
+SARSA training completed.
+Learned state-action pairs: 4000
+
+Note: Exact number of learned pairs depends on the random training process.

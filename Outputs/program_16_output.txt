@@ -1,0 +1,9 @@
+Example output:
+Average steps in last 20 episodes:
+TD(0): 14.00
+SARSA: 14.00
+Q-Learning: 14.00
+
+Most efficient: TD(0)
+
+Note: Example values only; stochastic training can change the result.

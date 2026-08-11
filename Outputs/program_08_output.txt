@@ -1,0 +1,10 @@
+Example output:
+State Values with Exploration:
+[[0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]]
+
+Note: Actual values depend on the random exploration sequence.

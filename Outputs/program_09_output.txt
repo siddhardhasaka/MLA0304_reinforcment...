@@ -1,0 +1,9 @@
+Example output:
+Action: 1, Next State: [0.6], Reward: 5.0
+Action: 1, Next State: [0.7], Reward: 5.0
+Action: 0, Next State: [0.6], Reward: 5.0
+Action: 1, Next State: [0.7], Reward: 5.0
+Action: 1, Next State: [0.8], Reward: 5.0
+Cumulative Reward: 50.0
+
+Note: Actions are random, so exact output varies.

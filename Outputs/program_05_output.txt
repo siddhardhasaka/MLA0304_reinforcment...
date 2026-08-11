@@ -1,0 +1,10 @@
+Example output:
+State Values with Exploration:
+[[0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]
+ [0.00 0.00 0.00 0.00]]
+
+Note: The learned values depend on random exploration and can differ between runs.

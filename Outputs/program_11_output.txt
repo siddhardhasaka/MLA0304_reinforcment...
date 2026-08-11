@@ -1,0 +1,5 @@
+Example output:
+Optimal Values:
+[43.98 41.09 40.00]
+
+Note: Exact floating-point values can vary slightly with implementation.

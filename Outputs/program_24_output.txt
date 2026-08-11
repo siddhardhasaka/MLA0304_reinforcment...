@@ -1,0 +1,13 @@
+Example output:
+Episode: 1, Total Reward: 15420.55
+Episode: 11, Total Reward: 22107.73
+Episode: 21, Total Reward: 17891.44
+Episode: 31, Total Reward: 20320.61
+Episode: 41, Total Reward: 19455.12
+Episode: 51, Total Reward: 23210.88
+Episode: 61, Total Reward: 18100.42
+Episode: 71, Total Reward: 24680.31
+Episode: 81, Total Reward: 21950.76
+Episode: 91, Total Reward: 26543.12
+
+Note: Prices are randomly generated, so the exact rewards change.

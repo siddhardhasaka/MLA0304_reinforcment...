@@ -1,0 +1,13 @@
+Example output:
+Episode 1, Total Reward: -8
+Episode 101, Total Reward: 2
+Episode 201, Total Reward: 5
+Episode 301, Total Reward: 7
+Episode 401, Total Reward: 4
+Episode 501, Total Reward: 9
+Episode 601, Total Reward: 6
+Episode 701, Total Reward: 10
+Episode 801, Total Reward: 8
+Episode 901, Total Reward: 12
+
+Note: Training rewards vary between runs.

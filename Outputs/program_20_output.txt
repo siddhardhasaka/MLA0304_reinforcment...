@@ -1,0 +1,10 @@
+Example output:
+Episode 0, Steps: 20, Epsilon: 0.99
+Episode 10, Steps: 260, Epsilon: 0.35
+Episode 20, Steps: 540, Epsilon: 0.08
+Episode 30, Steps: 820, Epsilon: 0.01
+Episode 40, Steps: 1100, Epsilon: 0.01
+
+A file named ddqn_model.weights.h5 is saved.
+
+Note: Training statistics vary between runs.

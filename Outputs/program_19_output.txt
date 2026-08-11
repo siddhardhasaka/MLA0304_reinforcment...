@@ -1,0 +1,8 @@
+Example output:
+Episode 1 finished after 500 moves (step cap reached)
+Episode 2 finished after 500 moves (step cap reached)
+Episode 3 finished after 500 moves (step cap reached)
+...
+Episode 10 finished after 500 moves (step cap reached)
+
+Note: The simplified chess environment uses random moves.

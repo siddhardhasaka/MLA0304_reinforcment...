@@ -1,0 +1,11 @@
+Example output:
+State (0, 0): Value = -10.00
+State (0, 1): Value = -10.00
+State (0, 2): Value = -10.00
+State (1, 0): Value = -10.00
+State (1, 2): Value = -10.00
+State (2, 0): Value = -10.00
+State (2, 1): Value = -10.00
+State (2, 2): Value = -10.00
+
+Note: The supplied fixed-policy iteration can repeatedly update values; use the run's actual printed values as authoritative.

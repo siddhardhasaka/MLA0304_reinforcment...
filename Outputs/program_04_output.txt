@@ -1,0 +1,7 @@
+Output:
+A matplotlib graph is displayed with three cumulative-reward curves:
+Epsilon=0.1
+Epsilon=0.3
+Epsilon=0.5
+
+Note: Exact curve values vary because rewards are random.

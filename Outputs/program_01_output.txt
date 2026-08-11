@@ -1,0 +1,8 @@
+Example output:
+Episode 0, Total Reward: 20.0
+Episode 10, Total Reward: 18.0
+Episode 20, Total Reward: 25.0
+...
+Episode 190, Total Reward: 22.0
+
+Note: CartPole rewards vary between runs.

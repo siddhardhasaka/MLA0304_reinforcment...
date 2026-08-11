@@ -1,0 +1,8 @@
+Example output:
+Episode 1: ended after 1 moves (step cap reached)
+Episode 2: ended after 1 moves (step cap reached)
+Episode 3: ended after 2 moves (step cap reached)
+...
+Episode 10: ended after 1 moves (step cap reached)
+
+This illustrates the need for a learned Q-function in a large state space.

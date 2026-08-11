@@ -1,0 +1,5 @@
+Example output:
+Optimal Policy:
+[7 2 4 9 1]
+
+Note: The reward table is random, so the policy changes between runs.

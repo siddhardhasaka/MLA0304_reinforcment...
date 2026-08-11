@@ -1,0 +1,8 @@
+Example output:
+Episode: 1, Total Reward: -1100.25, Actor Loss: 0.0000, Critic Loss: 0.0000
+Episode: 2, Total Reward: -1240.71, Actor Loss: 0.0000, Critic Loss: 0.0000
+Episode: 3, Total Reward: -980.54, Actor Loss: 0.0000, Critic Loss: 0.0000
+...
+Episode: 20, Total Reward: -900.14, Actor Loss: -0.5321, Critic Loss: 1.2845
+
+Note: Pendulum results vary substantially between runs.

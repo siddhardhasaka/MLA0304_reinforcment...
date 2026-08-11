@@ -1,0 +1,5 @@
+Example output:
+PPO mean reward: 480.00 +/- 25.00
+Random policy mean reward: 20.10 +/- 8.50
+
+Note: PPO and random-policy results vary because training and environment interaction are stochastic.

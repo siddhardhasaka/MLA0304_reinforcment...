@@ -1,0 +1,4 @@
+Example output:
+Optimal Path: [0, 1, 2, 3, 4, 9, 14, 19, 20]
+
+Note: The learned path can vary with random exploration.
